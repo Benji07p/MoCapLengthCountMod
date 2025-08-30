@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU"
+[[mods]]
+modId="mocaplengthcount"
+version="1.0"
+displayName="MoCapLengthCount"
+description='''Added a command to retrieve the length of a record.'''
